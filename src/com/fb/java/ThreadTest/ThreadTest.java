@@ -1,4 +1,4 @@
-package com.fb.java;
+package com.fb.java.ThreadTest;
 
 public class ThreadTest {
     public static void main(String []args){
