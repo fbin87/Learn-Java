@@ -1,6 +1,5 @@
 package com.fb.java.LambdaTest;
 
-import java.util.concurrent.TransferQueue;
 
 public class LambdaTest {
     public static void main(String args[]){
